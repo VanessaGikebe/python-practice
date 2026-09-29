@@ -1,4 +1,5 @@
 # Get input from user
+import utils.session
 number = int(input("Enter a number: "))
 
 # Check if the number is even or odd
